@@ -1,0 +1,32 @@
+body {
+  background-color: #dff3e3
+}
+
+hr {
+  border-style: none;
+  height: 1px;
+  width: 40%;
+  border-top: dashed #045762;
+  border-width: 3px;
+
+}
+h1 {
+  color:  #03506f;
+  font-family: cursive;
+  font-size: 38px;
+  text-shadow: 4px 4px 10px #045762
+  
+}
+
+h2 {
+  color: #03506f;
+  font-size: 35px;
+  text-indent: 5px;
+
+}
+
+h3 {
+  color: #03506f;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  text-indent: 5px;
+}
